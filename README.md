@@ -10,16 +10,6 @@
 - 💬 Ask me about **AI, Data Science, and App Development**
 - 🌟 Fun fact: *I turn coffee into code!*
 
----
-
-### 📬 Connect With Me
-<p>
-  <a href="mailto:"madhu0008kvs@gmail.com."><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-</p>
-
----
-
 ### 🛠 Tools I Use
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
