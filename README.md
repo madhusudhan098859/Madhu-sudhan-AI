@@ -18,7 +18,6 @@ Artificial intelligence and data science student
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/canva.png" width="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="40"/>
