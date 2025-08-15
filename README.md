@@ -28,7 +28,7 @@ Artificial intelligence and data science student
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudhan AI&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MzadhuSudhan AI&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuSudhan AI&layout=compact&theme=radical)
 
 ---
 
@@ -56,4 +56,4 @@ Artificial intelligence and data science student
   <a href="mailto:"madhu0008kvs@gmail.com."><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
 </p>
-![My Photo](myphoto)
+
