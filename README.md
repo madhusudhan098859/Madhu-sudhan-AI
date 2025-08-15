@@ -56,3 +56,4 @@ Artificial intelligence and data science student
   <a href="mailto:"madhu0008kvs@gmail.com."><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
 </p>
+![My Photo](myphoto)
