@@ -27,8 +27,8 @@ Artificial intelligence and data science student
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudhan AI&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MzadhuSudhan AI&layout=compact&theme=radical)
 
 ---
 
@@ -53,6 +53,6 @@ Artificial intelligence and data science student
 
 ### 📬 Connect With Me
 <p>
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
+  <a href="mailto:"madhu0008kvs@gmail.com."><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
 </p>
