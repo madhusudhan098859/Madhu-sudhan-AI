@@ -27,8 +27,7 @@ Artificial intelligence and data science student
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudhan AI&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuSudhan AI&layout=compact&theme=radical)
+![Madhusudhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhusudhan)
 
 ---
 
